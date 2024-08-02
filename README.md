@@ -21,6 +21,7 @@ This is a personal side project I've developed to study and master locking opera
 - Lombok
 - Spring Retry
 - SpringDoc OpenAPI
+- Docker (for PostgreSQL)
 
 ## Main Components
 
